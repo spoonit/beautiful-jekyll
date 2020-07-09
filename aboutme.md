@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About me
-# subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Jesus Rios. I am a fullstack mobile developer currently based in Tokyo, Japan.
-
 
 ### my history
 
