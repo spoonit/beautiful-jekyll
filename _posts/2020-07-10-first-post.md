@@ -1,5 +1,5 @@
 ---
-layout: First post 
+layout: post
 title: First post 
 tags: blog
 ---
