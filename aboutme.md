@@ -3,12 +3,6 @@ layout: page
 title: About me
 ---
 
-My name is Jesus Rios. I am a full stack mobile developer with over 5 years of experience based in Tokyo, Japan. My experience has been working with startups, primarily focused on mobile applications and backend services using Go. I enjoy the process of creating a product, value teamwork, and enjoy working with designers and QA to create a good user experience through user design and testing.
+My name is Jesus Rios. I am a full stack mobile developer with over 5 years of experience based in Tokyo, Japan. I am primarily focused on mobile applications and backend services using Go. 
 
-## Experience
-
-Origami 
-
-XYFindIt
-
-Balboa Park 
+Moved to Tokyo from San Diego CA in 2017 to work for [Origami] (https://www.origami.com)
