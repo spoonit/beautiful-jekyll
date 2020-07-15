@@ -12,8 +12,8 @@ description: place for random thoughts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Projects: "projects"
+  About Me: "aboutme"
 # Author's home: "https://spoonit.github.io"
 
 # --- Logo --- #
